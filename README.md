@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-| Project name            | Technologies                                                                   | Deploy link           |       Repository link        |
-|--------------|--------------|-------------|----------------|
+| Project name            | Technologies                                                                   | Deploy link       -    |       Repository link        |
+|-------------------------|-------------------------------------------------------------------------------------------|-------------|----------------|
 | Coffee Open   | ![html](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) ![](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg) ![](https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg) ![](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg) ![](https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg)   | [Link](https://pet-coffee-open.netlify.app/)   | [Link](https://github.com/FedAliaks/coffee-open)     |
 | Row 2    | Cell 5   | Cell 6   |cell     |
 | Row 3    | Cell 8   | Cell 9   |cell     |
