@@ -2,7 +2,7 @@
 
 | Project name            | Technologies            | Deploy link           |       Repository link        |
 |--------------|--------------|-------------|----------------|
-| Coffee Open   | ![html](icons/html5/html5-original.svg)   | [Link](https://pet-coffee-open.netlify.app/)   |cell     |
+| Coffee Open   | ![html](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)   | [Link](https://pet-coffee-open.netlify.app/)   |cell     |
 | Row 2    | Cell 5   | Cell 6   |cell     |
 | Row 3    | Cell 8   | Cell 9   |cell     |
 
