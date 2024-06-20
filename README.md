@@ -7,7 +7,7 @@
 | Project name  | Technologies | Deploy link | Repository link  |
 |:-------:|:------:|:-----:|:----:|
 | Coffee Open| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40">   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40">   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40" height="40">   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">   <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" width="40" height="40">| [Link](https://pet-coffee-open.netlify.app/)   | [Link](https://github.com/FedAliaks/coffee-open)     |
-| Row 2    | Cell 5   | Cell 6   |cell     |
+| Game Hangman    | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40">   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="40" height="40"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">   <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" width="40" height="40">  |   [Link](https://pet-hangman.netlify.app)   | [Link](https://github.com/FedAliaks/hangman)   |
 | Row 3    | Cell 8   | Cell 9   |cell     |
 
 
